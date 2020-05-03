@@ -1,4 +1,0 @@
-#!/bin/bash
-echo ""[Dhello to my git"
-
-git push
